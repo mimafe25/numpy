@@ -1,4 +1,5 @@
 <h1 align="center">
+
 <img src="https://raw.githubusercontent.com/numpy/numpy/main/branding/logo/primary/numpylogo.svg" width="300">
 </h1><br>
 
@@ -16,6 +17,7 @@ https://doi.org/10.1038/s41586-020-2649-2)
 [![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/numpy/numpy/badge)](https://securityscorecards.dev/viewer/?uri=github.com/numpy/numpy)
 [![Typing](https://img.shields.io/pypi/types/numpy)](https://pypi.org/project/numpy/)
 
+¡Estoy feliz de hacer mi primera edición!
 
 NumPy is the fundamental package for scientific computing with Python.
 
@@ -83,4 +85,5 @@ mailing list. You are very welcome to join.
 
 If you are new to contributing to open source, [this
 guide](https://opensource.guide/how-to-contribute/) helps explain why, what,
-and how to successfully get involved.
+and how to successfully get involve
+
